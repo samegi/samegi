@@ -62,6 +62,7 @@ Some of my repositories start with a short prefix to identify the academic subje
 | `Des` | Introduction to Software Development |
 | `IA` | Artificial Intelligence |
 | `ADS` | Software Analysis and Design |
+| `OP` | Topics in linear optimization |
 
 <!--
 **samegi/samegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
